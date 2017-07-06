@@ -58,7 +58,7 @@ Deploys wordpress site to aws with terraform
         	"Id": "/delegationset/NYQJ8QLPQ3KIM"
     	}
 	}
-
+	
 15. Get an IP
 	[root@matt-williams-56 ~]# curl canhazip.com
 	new IP addy
