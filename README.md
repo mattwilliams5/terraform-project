@@ -1,5 +1,5 @@
 # terraform-project
-Deploys wordpress site to aws with terraform
+Deploys wordpress site to aws with terraform once you clone and run this code you will need to go to the dev site that you set up before prod!! This way you can configure/install wordpress. I will add another prod script here in the near future!
 
 
 ## Create AWS account and IAM user before doing the following
